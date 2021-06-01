@@ -7,3 +7,5 @@
 1813128518 password 联通
 1813128517 password 移动
 1813128516 password 校园网
+
+Android版本的在Gitee上：https://gitee.com/zzwzdcw/LintNTU
